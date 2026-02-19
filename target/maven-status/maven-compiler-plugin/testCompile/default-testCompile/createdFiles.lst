@@ -1,0 +1,6 @@
+pages\DashboardPage.class
+pages\LogoutPage.class
+base\BaseClass.class
+pages\AdminPage.class
+pages\LoginPage.class
+tests\HRMTest.class
